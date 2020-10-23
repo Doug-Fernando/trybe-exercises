@@ -296,7 +296,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 39.5: Projct - TING - Trybe Is Not Google
 
 -----------------------------------------------------
-##### Credits
+#### Credits:
 
 - [Eric Massaki Hirayama](https://www.linkedin.com/in/erichirayama/)
 
