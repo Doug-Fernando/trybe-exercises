@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    margin-top: 20px;
+    border:1px solid grey;
+}
+
+.nav-links li{
+    display: inline-block;
+    width:100px;
+}
+.nav-links a {
+    text-decoration: none;
+
+}
+
+.main-content {
+    display: inline-block;
+    width:60%;
+    background-color: #a9a9a9;
+}
+
+aside {
+    display:inline-block;
+    vertical-align: top;
+}
+
+article p {
+    float: right;
+}
