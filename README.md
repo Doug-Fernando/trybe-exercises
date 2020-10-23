@@ -1,5 +1,5 @@
 # Trybe Exercises
-This repository have all the exercises developed by [Eric Massaki Hirayama](https://www.linkedin.com/in/erichirayama/) 
+This repository have all the exercises developed by [Douglas Fernando]() 
 during Trybe's course. 
 
 ### [Trybe](https://www.betrybe.com/) :rocket:
