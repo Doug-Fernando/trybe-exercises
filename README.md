@@ -298,5 +298,6 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 -----------------------------------------------------
 ##### Credits
 
-[Eric Massaki Hirayama](https://www.linkedin.com/in/erichirayama/)
-[Rafael Moura](https://www.linkedin.com/in/rafaelcostamoura/)
+- [Eric Massaki Hirayama](https://www.linkedin.com/in/erichirayama/)
+
+- [Rafael Moura](https://www.linkedin.com/in/rafaelcostamoura/)
