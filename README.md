@@ -1,5 +1,5 @@
 # Trybe Exercises
-This repository have all the exercises developed by [Douglas Fernando]() 
+This repository have all the exercises developed by [Douglas Fernando](https://www.linkedin.com/in/douglas-fernando-1559981bb/) 
 during Trybe's course. 
 
 ### [Trybe](https://www.betrybe.com/) :rocket:
@@ -41,32 +41,32 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 3.2: HTML & CSS - First steps in CSS
 - [X] 3.3: HTML & CSS - Selectors and positioning
 - [X] 3.4: Semantic HTML
-- [ ] 3.5: [Project - Lessons Learned]()
+- [X] 3.5: [Project - Lessons Learned]()
 
-##### Unit 4: Introduction to JavaScript and Programming Logic :hourglass_flowing_sand:
+##### Unit 4: Introduction to JavaScript and Programming Logic :heavy_check_mark
 
-- [ ] 4.1: JavaScript - First steps
-- [ ] 4.2: JavaScript - Array and for loops
-- [ ] 4.3: JavaScript - Programming logic and algorithms
-- [ ] 4.4: JavaScript - Objects and functions
-- [ ] 4.5: Project - Playground Functions
+- [X] 4.1: JavaScript - First steps
+- [X] 4.2: JavaScript - Array and for loops
+- [X] 4.3: JavaScript - Programming logic and algorithms
+- [X] 4.4: JavaScript - Objects and functions
+- [X] 4.5: Project - Playground Functions
 
-##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :closed_book:
+##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :hourglass_flowing_sand:
 
-- [ ] 5.1: JavaScript - DOM and selectors
-- [ ] 5.2: JavaScript - Working with elements
-- [ ] 5.3: JavaScript - Events
-- [ ] 5.4: JavaScript - Web Storage
+- [X] 5.1: JavaScript - DOM and selectors
+- [X] 5.2: JavaScript - Working with elements
+- [X] 5.3: JavaScript - Events
+- [X] 5.4: JavaScript - Web Storage
 - [ ] 5.5: Project - Meme Generator
-- [ ] 5.6: Project - Art with Pixels
+- [X] 5.6: Project - Art with Pixels
 - [ ] 5.7: Project - Task List
 - [ ] 5.7: (Bonus) Project - Gess the Color
 - [ ] 5.7: (Bonus) Project - Mysterious Letter
 
-##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :closed_book:
+##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :hourglass_flowing_sand:
 
-- [ ] 6.1: HTML & CSS - Forms
-- [ ] 6.2: JavaScript Libraries and CSS Frameworks
+- [X] 6.1: HTML & CSS - Forms
+- [X] 6.2: JavaScript Libraries and CSS Frameworks
 - [ ] 6.3: CSS Flexbox - Part 1
 - [ ] 6.4: CSS Flexbox - Part 2
 - [ ] 6.5: CSS Responsive - Mobile First
