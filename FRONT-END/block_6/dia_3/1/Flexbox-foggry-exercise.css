@@ -1,0 +1,97 @@
+// Exercise 1
+
+#pond {
+  display: flex;
+  justify-content: flex-end;
+}
+
+// Exercise 2
+
+#pond {
+  display: flex;
+  justify-content: center;
+}
+
+// Exercise 3
+
+#pond {
+  display: flex;
+  justify-content: space-around;
+}
+
+// Exercise 4
+
+#pond {
+  display: flex;
+  justify-content: space-between;
+}
+
+// Exercise 5
+
+#pond {
+  display: flex;
+  align-items: flex-end;
+}
+
+// Exercise 6
+
+#pond {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// Exercise 7
+
+#pond {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+
+// Exercise 8
+
+#pond {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+// Exercise 9
+
+#pond {
+  display: flex;
+  flex-direction: column;
+}
+
+// Exercise 10
+
+#pond {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+// Exercise 11
+
+#pond {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+// Exercise 12
+
+#pond {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+}
+
+// Exercise 13
+
+#pond {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: flex-end;
+}

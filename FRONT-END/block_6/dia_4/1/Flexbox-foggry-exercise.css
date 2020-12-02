@@ -1,0 +1,98 @@
+/* Exercise 14 */
+
+#pond {
+  display: flex;
+}
+
+.yellow {
+  order: 3;
+}
+
+/*  Exercise 15 */
+
+#pond {
+  display: flex;
+}
+
+.red {
+  order: -1;
+}
+
+/* Exercise 16 */
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+  align-self: flex-end;
+}
+
+/* Exercise 17  */
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+  order: 1;
+  align-self: flex-end;
+}
+
+/* Exercise 18 */
+
+#pond {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+/* Exercise 19 */
+
+#pond {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+/* Exercise 20 */
+
+#pond {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+/* Exercise 21 */
+
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+/* Exercise 22  */
+
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-end;
+}
+
+/* Exercise 23 */
+
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+  align-content: center;
+}
+
+/* Exercise 24  */
+
+#pond {
+  display: flex;
+  flex-flow: column-reverse wrap-reverse;
+  justify-content: center;
+  align-content: space-between;
+}
