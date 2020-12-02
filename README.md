@@ -59,7 +59,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 5.4: JavaScript - Web Storage
 - [ ] 5.5: Project - Meme Generator
 - [X] 5.6: Project - Art with Pixels
-- [ ] 5.7: Project - Task List
+- [X] 5.7: Project - Task List
 - [ ] 5.7: (Bonus) Project - Gess the Color
 - [ ] 5.7: (Bonus) Project - Mysterious Letter
 
@@ -67,22 +67,22 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 
 - [X] 6.1: HTML & CSS - Forms
 - [X] 6.2: JavaScript Libraries and CSS Frameworks
-- [ ] 6.3: CSS Flexbox - Part 1
-- [ ] 6.4: CSS Flexbox - Part 2
+- [X] 6.3: CSS Flexbox - Part 1
+- [X] 6.4: CSS Flexbox - Part 2
 - [ ] 6.5: CSS Responsive - Mobile First
 - [ ] 6.6: Project - Facebook's Login Page
 
-##### Unit 7: JavaScript ES6 & Unit Tests :closed_book:
+##### Unit 7: JavaScript ES6 & Unit Tests :hourglass_flowing_sand:
 
 - [ ] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
 - [ ] 7.2: JavaScript ES6 - Objects
-- [ ] 7.3: Unit tests in JavaScript
+- [X] 7.3: Unit tests in JavaScript
 - [ ] 7.4: Project - JavaScript Unit Tests
 
-##### Unit 8: JavaScript ES6 :closed_book:
+##### Unit 8: JavaScript ES6 :hourglass_flowing_sand:
 
-- [ ] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
+- [X] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [X] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
 - [ ] 8.3: JavaScript ES6 - Higher Order Functions - reduce
 - [ ] 8.4: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
 - [ ] 8.5: Project - Zoo functions
