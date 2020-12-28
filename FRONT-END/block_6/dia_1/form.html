@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>6.1 | HTML & CSS - Forms </title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <form method="get" autocomplete="off">
+      <fieldset class='dados-pessoais'>
+        <legend>Dados Pessoais</legend>
+        <label for="nome">Nome</label>
+        <input type="text" name="nome" id="nome" maxlength="40" required>
+        <label for="email">E-mail</label>
+        <input type="email" name="emaiil" id="email" required maxlength="4">
+        <label for="cpf">CPF</label>
+        <input type="number" name="cpf" id="cpf" required maxlength="11">
+        <label for="endereco">Endereço</label>
+        <input type="text" name="endereco" id="endereco" required maxlength='200'>
+        <label for="cidade">Cidade</label>
+        <input type="text" name="cidade" id="cidade">
+        <label for="estado">Estado</label>
+        <select name="estado" id="estado">
+          <option value=""></option>
+        </select>
+        <div class="moradia">
+          <label for="casa">Casa</label>
+          <input type="radio" name="tipo" id="casa" class='moradia' required>
+          <label for="apartamento">Apartamento</label>
+          <input type="radio" name="tipo" id="apartamento" class='moradia' required>
+        </div>
+      </fieldset>
+      <fieldset class='dados-curriculo'>
+        <legend>Dados do seu último emprego</legend>
+        <label for="curriculo-resumo">Resumo do currículo</label>
+        <textarea name="curriculo-resumo" id="curriculo-resumo" required maxlength="1000" cols="20" rows="5"></textarea>
+        <label for="cargo">Cargo</label>
+        <input type="text" name="cargo" id="cargo" required maxlength="40">
+        <label for="desc">Descrição</label>
+        <input type="text" name="desc" id="desc" required maxlength='500'>
+        <label for="date-start">Data de início</label>
+        <input type="text" name="date-start" id="date-start">
+      </fieldset>
+      <div class='buttons-group'>
+        <button class='buttons' type="submit" id='enviar'>Enviar</button>
+        <button class='buttons' type="reset">Limpar</button>
+      </div>
+    </form>
+    <script src="script.js"></script>
+  </body>
+
+</html>
