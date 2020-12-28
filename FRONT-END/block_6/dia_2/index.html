@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bibliotecas JS e frameworks CSS</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bulma.min.css">
+    <link rel="stylesheet" href="DatePickerX.min.css">
+    <link href="validation.min.css" rel="stylesheet">
+    <script src="validation.min.js"></script>
+  </head>
+
+  <body>
+    <div class="engloba">
+      <section class="section has-text-centered">
+        <div class="container">
+          <h1 class="title">Dados Pessoais</h1>
+        </div>
+      </section>
+      <form method="GET" autocomplete='off' class='js-form'>
+        <div class="section">
+          <div class="field">
+            <div class="control">
+              <input type="text" date-validate='required' name="name" id="nome" class="validate input"
+                placeholder="Nome" maxlength='40'>
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <input type="email" name="email" id="email" class="input" placeholder="seu@email.com" maxlength="50">
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <input type="text" name="text" id="text" class="input" placeholder="000.000.000-00" maxlength="11">
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <input type="text" name="endereco" id="endereco" class="input" placeholder="Endereço" maxlength="200">
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <input type="text" name="cidade" id="cidade" class="input" placeholder="Cidade" maxlength="28">
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <div class="select">
+                <select name="estado" id="estado">
+                  <option value="">Estado</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <label for="casa" class="radio">
+                <input type="radio" name="moradia" id="casa"> Casa </label>
+              <label for="apartamento" class="radio">
+                <input type="radio" name="moradia" id="apartamento"> Apartamento </label>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <section class="section has-text-centered">
+          <div class="container">
+            <h1 class="title">Dados do último emprego</h1>
+          </div>
+        </section>
+        <div class="section">
+          <div class="field">
+            <div class="control">
+              <textarea name="curriculo-resumo" id="resumo" cols="20" rows='5' class="textarea"
+                placeholder="Resumo do curriculo" maxlength="1000"></textarea>
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <input type="text" placeholder="Cargo" maxlength="40" name="cargo" id="cargo" class="input">
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <input type="text" name="desc" id="desc" class="input" placeholder="Descrição do cargo" maxlength="500">
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <input type="text" name="data-ini" id="data-ini" class="input" placeholder="01/01/1900">
+            </div>
+          </div>
+          <div class="botoes field is-grouped">
+            <div class="control">
+              <button type="submit" class="button is-success" id='enviar'>Enviar</button>
+              <button class='button is-danger'>Resetar</button>
+            </div>
+          </div>
+        </div>
+    </div>
+    </form>
+    <script src="script.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
+    <script src="DatePickerX.min.js"></script>
+  </body>
+
+</html>
