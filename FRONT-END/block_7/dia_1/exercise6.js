@@ -14,11 +14,10 @@ const funcao2 = (str) => {
   const novaFrase = ordenaSkills.forEach((skill, index, array) => {
     if (index === array.length - 1) {
       novaStr = `${novaStr} e ${skill}.`;
+    } else if (index === 0) {
+      novaStr = `${novaStr}: ${skill}`;
     } else {
       novaStr = `${novaStr}, ${skill}`;
-    }
-    if (index === 0) {
-      novaStr = `${novaStr}: ${skill}`;
     }
   });
 
