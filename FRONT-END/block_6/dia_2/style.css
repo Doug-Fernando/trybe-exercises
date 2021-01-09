@@ -1,0 +1,40 @@
+.engloba {
+  width: 50%;
+  margin:auto
+}
+
+.buttons-group { 
+  display: flex;
+  justify-content: center;
+}
+
+.dados-pessoais, .dados-curriculo {
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  width:40%;
+  padding: 20px;
+}
+
+.dados-pessoais {
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.buttons {
+  padding: 3px 10px;
+  width:100px;
+  margin: 10px 10px 0 0;
+}
+
+.botoes {
+  margin-top: 20px;
+}
+
+.botoes button {
+  margin-right: 10px;
+}
