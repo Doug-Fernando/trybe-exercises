@@ -41,7 +41,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 3.2: HTML & CSS - First steps in CSS
 - [X] 3.3: HTML & CSS - Selectors and positioning
 - [X] 3.4: Semantic HTML
-- [X] 3.5: [Project - Lessons Learned]()
+- [X] 3.5: Project - Lessons Learned
 
 ##### Unit 4: Introduction to JavaScript and Programming Logic :heavy_check_mark:
 
@@ -296,7 +296,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 39.5: Projct - TING - Trybe Is Not Google
 
 -----------------------------------------------------
-#### Credits:
+#### Credits for the README template:
 
 - [Eric Massaki Hirayama](https://www.linkedin.com/in/erichirayama/)
 
