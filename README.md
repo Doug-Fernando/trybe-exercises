@@ -24,7 +24,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 
 # Trybe Lectures
 ## Introduction - Fundamentals of Web Development :hourglass_flowing_sand:
-##### Unit 1: Introduction - Unix & Shell :heavy_check_mark:
+#### Unit 1: Introduction - Unix & Shell :heavy_check_mark:
 
 - [X] 1.3: Unix & Bash - Part 1
 - [X] 1.4: Unix & Bash - Part 2
@@ -51,51 +51,51 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 4.4: JavaScript - Objects and functions
 - [X] 4.5: Project - Playground Functions
 
-##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :hourglass_flowing_sand:
+##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :heavy_check_mark:
 
-- [X] 5.1: JavaScript - DOM and selectors
+- [X] 5.1: JavaScript - DOM and selectors 
 - [X] 5.2: JavaScript - Working with elements
 - [X] 5.3: JavaScript - Events
 - [X] 5.4: JavaScript - Web Storage
-- [ ] 5.5: Project - Meme Generator
+- [X] 5.5: Project - Meme Generator
 - [X] 5.6: Project - Art with Pixels
 - [X] 5.7: Project - Task List
-- [ ] 5.7: (Bonus) Project - Gess the Color
-- [ ] 5.7: (Bonus) Project - Mysterious Letter
+- [X] 5.7: (Bonus) Project - Gess the Color
+- [X] 5.7: (Bonus) Project - Mysterious Letter
 
-##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :hourglass_flowing_sand:
+##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :heavy_check_mark:
 
 - [X] 6.1: HTML & CSS - Forms
 - [X] 6.2: JavaScript Libraries and CSS Frameworks
 - [X] 6.3: CSS Flexbox - Part 1
 - [X] 6.4: CSS Flexbox - Part 2
-- [ ] 6.5: CSS Responsive - Mobile First
-- [ ] 6.6: Project - Facebook's Login Page
+- [X] 6.5: CSS Responsive - Mobile First
+- [X] 6.6: Project - Facebook's Login Page
 
-##### Unit 7: JavaScript ES6 & Unit Tests :hourglass_flowing_sand:
+##### Unit 7: JavaScript ES6 & Unit Tests :heavy_check_mark:
 
-- [ ] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
-- [ ] 7.2: JavaScript ES6 - Objects
+- [X] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
+- [X] 7.2: JavaScript ES6 - Objects
 - [X] 7.3: Unit tests in JavaScript
-- [ ] 7.4: Project - JavaScript Unit Tests
+- [X] 7.4: Project - JavaScript Unit Tests
 
-##### Unit 8: JavaScript ES6 :hourglass_flowing_sand:
+##### Unit 8: JavaScript ES6 :heavy_check_mark:
 
 - [X] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [X] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
-- [ ] 8.3: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
-- [ ] 8.5: Project - Zoo functions
+- [X] 8.3: JavaScript ES6 - Higher Order Functions - reduce
+- [X] 8.4: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
+- [X] 8.5: Project - Zoo functions
 
 ##### Unit 9: Asynchronicity & Callbacks :closed_book:
 
-- [ ] 9.1: Asynchronous JavaScript and Callbacks
+- [X] 9.1: Asynchronous JavaScript and Callbacks
 - [ ] 9.2: JavaScript Promises
-- [ ] 9.3: Project - Shopping Cart
+- [X] 9.3: Project - Shopping Cart
 
 ##### Unit 10: Automated Tests with Jest :closed_book:
 
-- [ ] 10.1: First steps on Jest
+- [X] 10.1: First steps on Jest
 - [ ] 10.2: Jest - Asynchronous tests
 - [ ] 10.3: Jest - Simulating behaviors
 - [ ] 10.4: Project - Asynchronous Jest and Mocking
