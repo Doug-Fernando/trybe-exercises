@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export class HellowWorld extends Component {
   render() {
     return (
-      <div>
+      <div style={{color: "red"}}>
         Hello World!
       </div>
     )
