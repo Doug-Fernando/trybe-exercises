@@ -1,14 +1,10 @@
 import './App.css';
 import HellowWorld from './HelloWorld';
 import Component from './Component';
+import Exercise from './Exercise';
 
-const task = (value) => {
-  return (
-    <li>{value}</li>
-  );
-}
 
-const myArray = ['React', 'HTMl', 'CSS', 'JavaScript', 'PHP'];
+
 
 function App() {
   return (<div>
@@ -16,8 +12,8 @@ function App() {
     <Component />
 
     <div>Exercise:</div>
-    {myArray.map(item => task(item))};
-  </div>);
+    <Exercise />    
+    </div>);
 }
 
 export default App;
