@@ -23,7 +23,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - :closed_book: - Not started
 
 # Trybe Lectures
-## Introduction - Fundamentals of Web Development :hourglass_flowing_sand:
+## Introduction - Fundamentals of Web Development :heavy_check_mark:
 #### Unit 1: Introduction - Unix & Shell :heavy_check_mark:
 
 - [X] 1.3: Unix & Bash - Part 1
@@ -87,31 +87,31 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 8.4: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
 - [X] 8.5: Project - Zoo functions
 
-##### Unit 9: Asynchronicity & Callbacks :closed_book:
+##### Unit 9: Asynchronicity & Callbacks :heavy_check_mark:
 
 - [X] 9.1: Asynchronous JavaScript and Callbacks
-- [ ] 9.2: JavaScript Promises
+- [X] 9.2: JavaScript Promises
 - [X] 9.3: Project - Shopping Cart
 
-##### Unit 10: Automated Tests with Jest :closed_book:
+##### Unit 10: Automated Tests with Jest :heavy_check_mark:
 
 - [X] 10.1: First steps on Jest
-- [ ] 10.2: Jest - Asynchronous tests
-- [ ] 10.3: Jest - Simulating behaviors
-- [ ] 10.4: Project - Asynchronous Jest and Mocking
+- [X] 10.2: Jest - Asynchronous tests
+- [X] 10.3: Jest - Simulating behaviors
+- [X] 10.4: Project - Asynchronous Jest and Mocking
 
-## Front-end Development :closed_book:
+## Front-end Development :hourglass_flowing_sand:
 
-##### Unit 11: Introduction to React :closed_book:
+##### Unit 11: Introduction to React :heavy_check_mark:
 
-- [ ] 11.1: 'Hello, world!' on React!
-- [ ] 11.2: React Components
-- [ ] 11.3: Project - Movie Cards Library
+- [X] 11.1: 'Hello, world!' on React!
+- [X] 11.2: React Components
+- [X] 11.3: Project - Movie Cards Library
 
 ##### Unit 12: Componets with State, Events and Forms with React :closed_book:
 
-- [ ] 12.1: Components with states and events
-- [ ] 12.2: Forms on React
+- [X] 12.1: Components with states and events
+- [X] 12.2: Forms on React
 - [ ] 12.3: Project - Movie Cards Library Stateful
 
 ##### Unit 13: Components Life Cycle and React Router :closed_book:
