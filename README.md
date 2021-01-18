@@ -108,7 +108,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 11.2: React Components
 - [X] 11.3: Project - Movie Cards Library
 
-##### Unit 12: Componets with State, Events and Forms with React :closed_book:
+##### Unit 12: Componets with State, Events and Forms with React :hourglass_flowing_sand:
 
 - [X] 12.1: Components with states and events
 - [X] 12.2: Forms on React
