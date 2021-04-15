@@ -100,7 +100,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 10.3: Jest - Simulating behaviors
 - [X] 10.4: Project - Asynchronous Jest and Mocking
 
-## Front-end Development :hourglass_flowing_sand:
+## Front-end Development :heavy_check_mark:
 
 ##### Unit 11: Introduction to React :heavy_check_mark:
 
@@ -108,67 +108,67 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [X] 11.2: React Components
 - [X] 11.3: Project - Movie Cards Library
 
-##### Unit 12: Componets with State, Events and Forms with React :hourglass_flowing_sand:
+##### Unit 12: Componets with State, Events and Forms with React :heavy_check_mark:
 
 - [X] 12.1: Components with states and events
 - [X] 12.2: Forms on React
-- [ ] 12.3: Project - Movie Cards Library Stateful
+- [X] 12.3: Project - Movie Cards Library Stateful
 
-##### Unit 13: Components Life Cycle and React Router :closed_book:
+##### Unit 13: Components Life Cycle and React Router :heavy_check_mark:
 
-- [ ] 13.1: Components Life Cycle on React
-- [ ] 13.2: React Router
-- [ ] 13.3: Project - Movie Cards Library CRUD
+- [X] 13.1: Components Life Cycle on React
+- [X] 13.2: React Router
+- [X] 13.3: Project - Movie Cards Library CRUD
 
-##### Unit 14: Agile Methodologies :closed_book:
+##### Unit 14: Agile Methodologies :heavy_check_mark:
 
-- [ ] 14.1: Agile Methodologies
-- [ ] 14.2: Project - Frontend Online Store
+- [X] 14.1: Agile Methodologies
+- [X] 14.2: Project - Frontend Online Store
 
-##### Unit 15: Automated Tests with React Testing Library :closed_book:
+##### Unit 15: Automated Tests with React Testing Library :heavy_check_mark:
 
-- [ ] 15.1: RTL - First steps
-- [ ] 15.2: RTL - Mocks and Inputs
-- [ ] 15.3: RTL - Testing React Router
-- [ ] 15.4: Project - Tests on React
+- [X] 15.1: RTL - First steps
+- [X] 15.2: RTL - Mocks and Inputs
+- [X] 15.3: RTL - Testing React Router
+- [X] 15.4: Project - Tests on React
 
-##### Unit 16: State Management with Redux :closed_book:
+##### Unit 16: State Management with Redux :heavy_check_mark:
 
-- [ ] 16.1: Introduction to Redux
-- [ ] 16.2: React with Redux - Part 1
-- [ ] 16.3: React with Redux - Pratice
-- [ ] 16.4: React with Redux - Part 2
-- [ ] 16.5: Synchronous tests with React-Redux
-- [ ] 16.6: Project - Table with data filters
+- [X] 16.1: Introduction to Redux
+- [X] 16.2: React with Redux - Part 1
+- [X] 16.3: React with Redux - Pratice
+- [X] 16.4: React with Redux - Part 2
+- [X] 16.5: Synchronous tests with React-Redux
+- [X] 16.6: Project - Table with data filters
 
-##### Unit 17: Project Trivia Game :closed_book:
+##### Unit 17: Project Trivia Game :heavy_check_mark:
 
-- [ ] 17.1: Project Trivia Game
+- [X] 17.1: Project Trivia Game
 
-##### Unit 18: React Hooks & Context API :closed_book:
+##### Unit 18: React Hooks & Context API :heavy_check_mark:
 
-- [ ] 18.1: React's Context API
-- [ ] 18.2: React Hooks - useState and useContext
-- [ ] 18.3: React Hooks - useEffect and customized Hooks
-- [ ] 18.4: Project - StarWars Datatable with Context API and Hooks
+- [X] 18.1: React's Context API
+- [X] 18.2: React Hooks - useState and useContext
+- [X] 18.3: React Hooks - useEffect and customized Hooks
+- [X] 18.4: Project - StarWars Datatable with Context API and Hooks
 
-##### Unit 19: Final Project - Recipes App :closed_book:
+##### Unit 19: Final Project - Recipes App :heavy_check_mark:
 
-- [ ] 19.1: Project - Recipes App
+- [X] 19.1: Project - Recipes App
 
- ## Back-end Development :closed_book:
+ ## Back-end Development :hourglass_flowing_sand:
 
-##### Unit 20: Introduction to SQL :closed_book:
+##### Unit 20: Introduction to SQL :heavy_check_mark:
 
-- [ ] 20.1: Database SQL
-- [ ] 20.2: Finding data in a database
-- [ ] 20.3: Filtering data specifically
-- [ ] 20.4: Handliing tables
-- [ ] 20.5: Project - All For One
+- [X] 20.1: Database SQL
+- [X] 20.2: Finding data in a database
+- [X] 20.3: Filtering data specifically
+- [X] 20.4: Handliing tables
+- [X] 20.5: Project - All For One
 
-##### Unit 21: SQL Functions, Joins and Subqueries :closed_book:
+##### Unit 21: SQL Functions, Joins and Subqueries :hourglass_flowing_sand:
 
-- [ ] 21.1: Most used SQL Functions
+- [X] 21.1: Most used SQL Functions
 - [ ] 21.2: Simplifying JOINs and UNIONs
 - [ ] 21.3: Stored Routines & Subqueries
 - [ ] 21.4: Project - Vocabulary Booster
